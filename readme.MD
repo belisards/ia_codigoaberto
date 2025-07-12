@@ -8,7 +8,7 @@ Inspirado no repositório [Inteligência com fontes abertas (OSINT) para jornali
 
 ### Apresentações
 
-[Slides na ABRAJI - 2025](http://belisards.github.io/classificacao_ia)
+[Slides na ABRAJI - 2025](http://belisards.github.io/ia_codigoaberto)
 
 ### Recursos didáticos
 
@@ -40,12 +40,10 @@ Inspirado no repositório [Inteligência com fontes abertas (OSINT) para jornali
 
 - [ModernBERT](https://huggingface.co/blog/modernbert): boa explicação sobre a relevância de modelos BERT atualmente.
 
-🖥️ [github.com/belisards/abraji25](https://github.com/belisards/abraji25)
-
 # Extração de entidades
 
-https://github.com/urchade/GLiNER
+[GLiNER: Generalist and Lightweight Model for Named Entity Recognition](https://github.com/urchade/GLiNER)
 
 # Modelagem de tópicos
 
-BERTopic
+[BERTopic](https://github.com/MaartenGr/BERTopic)
