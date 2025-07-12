@@ -261,6 +261,8 @@ Uso de um modelo pré-treinado provendo alguns exemplos "anotados".
 
 Altera o modelo para torná-lo mais especializado com base em um conjunto razoável de dados anotados (anotação correlacionada com desempenho).
 
+- [Argilla.io](https://argilla.io/): ótima solução para anotar dados.
+
 *** 
 
 ## Outros modos de usar
@@ -305,7 +307,7 @@ O Hugging Face está para os desenvolvedores de IA assim como o GitHub está par
 
 - **F1 score:** um tipo de média entre as anteriores, bom para mensurar a qualidade geral.
 
-[🔗 Tutorial do Google](https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=pt-br){.external target="_blank"}
+- [🔗 Tutorial do Google](https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall?hl=pt-br){.external target="_blank"}
 
 :::
 
@@ -325,7 +327,7 @@ O Hugging Face está para os desenvolvedores de IA assim como o GitHub está par
 
 - [LegalBERT](https://huggingface.co/dominguesm/legal-bert-base-cased-ptbr): especializado em textos legais.
 
-- [DeBERTina](https://huggingface.co/tgsc/debertina-base-32k-vocab): arquitetura com melhorias em relação ao modelo BERT tradicional.
+- [DeBERTinha](https://huggingface.co/sagui-nlp/debertinha-ptbr-xsmall): modelo leve, mas bate BERTimbau-Large (335M) em algumas tarefas.
 
 - [ModernBERT](https://huggingface.co/answerdotai/ModernBERT-base): arquitetura mais moderna, porém treinado apenas em inglês.
 
@@ -359,6 +361,8 @@ O Hugging Face está para os desenvolvedores de IA assim como o GitHub está par
 
 ## Fine-tuning
 
+![](imgs/fogocruzado.png)
+
 **Fogo Cruzado**: Detecção de relatos de violência armada em tempo real - [paper](https://arxiv.org/abs/2401.12989) e [repositório no Github](https://github.com/belisards/gunviolence_ptbr/)
 
 
@@ -381,8 +385,8 @@ O Hugging Face está para os desenvolvedores de IA assim como o GitHub está par
 ## Smart Image Sorter
 
 ::: {.incremental}
-- Notebooks com interface gráfica ou script Python
-- **Classificação zero-shot** de coleções de imagens
+Classificação zero-shot de coleções de imagens via interface gráfica ou linha de comando.
+
 - [🔗 Guia traduzido para português](https://escoladedados.org/tutoriais/easy-ai-classificacao-imagens-tutorial/)
 
 - [🔗 GitHub](https://github.com/bellingcat/smart-image-sorter)
