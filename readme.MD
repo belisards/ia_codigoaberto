@@ -20,15 +20,11 @@ Inspirado no repositório [Inteligência com fontes abertas (OSINT) para jornali
 
 ### Ferramentas úteis
 
-- Ollama: permite rodar modelos de IA localmente.
+- [Ollama](https://ollama.com/): permite rodar modelos de IA localmente.
 
 - [Argilla](https://argilla.io/): ferramenta para anotação de dados, que permite a colaboração entre várias pessoas de uma organização e que pode integrar modelos de IA para auxiliar no processo.
 
 - [Smart Image Sorter](https://github.com/bellingcat/smart-image-sorter): ferramenta para classificação de imagens com modelos de IA.
-
-### Para se manter informado
-
-### Casos de uso
 
 ### Referências
 
