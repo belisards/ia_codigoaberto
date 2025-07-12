@@ -8,7 +8,7 @@ Inspirado no repositório [Inteligência com fontes abertas (OSINT) para jornali
 
 ### Apresentações
 
-[Slides na ABRAJI - 2025](slides/slides.qmd)
+[Slides na ABRAJI - 2025](http://belisards.github.io/classificacao_ia)
 
 ### Recursos didáticos
 
