@@ -26,6 +26,10 @@ Inspirado no repositório [Inteligência com fontes abertas (OSINT) para jornali
 
 - [Smart Image Sorter](https://github.com/bellingcat/smart-image-sorter): ferramenta para classificação de imagens com modelos de IA.
 
+### Aplicações no jornalismo
+
+- [Curso certo](https://www.publico.pt/interactivos/curso-certo/): trabalho de Rui Barros (Público) aplicando modelos zero-shot para relacionar profissões e cursos universitários. Veja também a [documentação técnica do projeto](https://ruibarros.me/blog/fuzzy-matching-concepts-zero-shot-classification)
+
 ### Referências
 
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown): playlists sobre fundamentos de redes neurais e modelos Transformer
